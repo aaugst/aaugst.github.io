@@ -1,2 +1,2 @@
-# aaugst.github.io
-Design / Tech Portfolio
+# photo.github.io
+Photography Portfolio
